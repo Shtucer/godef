@@ -1,7 +1,7 @@
 package main
 
 import (
-	"code.google.com/p/goplan9/plan9/acme"
+	"github.com/9fans/go/acme"
 	"fmt"
 	"io"
 	"os"
